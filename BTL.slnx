@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BTL/BTL.vcxproj" Id="d9558d9f-9fd8-4ddf-aa3a-e59a2cbf1010" />
+</Solution>

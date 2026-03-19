@@ -1,0 +1,93 @@
+[Sun Feb 22 00:07:27 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:08:54 2026] SV sv001 thao tac dang ky mon tin
+[Sun Feb 22 00:08:54 2026] He thong tat. Da luu du lieu.
+[Sun Feb 22 00:09:37 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:10:27 2026] Thuc hien Backup du lieu he thong.
+[Sun Feb 22 00:12:40 2026] He thong tat. Da luu du lieu.
+[Sun Feb 22 00:23:36 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:24:34 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:25:24 2026] He thong tat. Da luu du lieu.
+[Sun Feb 22 00:26:20 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:28:26 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 00:30:55 2026] He thong tat. Da luu du lieu.
+[Sun Feb 22 10:14:31 2026] He thong khoi dong. Da nap du lieu.
+[Sun Feb 22 23:59:18 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:00:00 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:01:06 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:03:08 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:03:49 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:04:45 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 00:09:27 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:11:26 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:16:52 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:17:48 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 00:18:16 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:18:53 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 00:22:33 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:22:44 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 00:23:03 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:30:10 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:30:26 2026] SV sv001 thao tac dang ky mon hm01
+[Mon Feb 23 00:31:16 2026] SV sv002 thao tac dang ky mon hm01
+[Mon Feb 23 00:56:06 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:56:10 2026] Thuc hien Backup du lieu he thong.
+[Mon Feb 23 00:56:16 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 00:56:46 2026] Thuc hien Backup du lieu he thong.
+[Mon Feb 23 00:56:48 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 11:17:17 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 11:19:01 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 11:19:56 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 11:20:36 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 11:24:16 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 11:24:58 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 11:30:47 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 11:31:33 2026] He thong tat. Da luu du lieu.
+[Mon Feb 23 12:35:30 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 12:35:43 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 12:43:55 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:02:42 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:02:57 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:04:25 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:04:40 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:06:29 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:13:16 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:16:12 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:21:20 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:24:26 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:25:58 2026] He thong khoi dong. Da nap du lieu.
+[Mon Feb 23 13:28:10 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:30:30 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:31:44 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:32:48 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:34:47 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:35:00 2026] SV sv01 thao tac dang ky mon Dai
+[Tue Feb 24 19:35:00 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 19:35:10 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:35:53 2026] SV sv01 thao tac dang ky mon Dai
+[Tue Feb 24 19:35:53 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 19:35:59 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:37:15 2026] SV sv01 thao tac dang ky mon Dai
+[Tue Feb 24 19:37:15 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 19:38:18 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:38:55 2026] SV sv01 thao tac dang ky mon hm01
+[Tue Feb 24 19:39:27 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 19:48:29 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:48:48 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:49:46 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:56:42 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 19:57:47 2026] Thuc hien Backup du lieu mon hoc.
+[Tue Feb 24 19:57:47 2026] Thuc hien Backup du lieu sinh vien.
+[Tue Feb 24 19:57:51 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 20:03:05 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 20:04:06 2026] Thuc hien Backup du lieu mon hoc.
+[Tue Feb 24 20:04:06 2026] Thuc hien Backup du lieu sinh vien.
+[Tue Feb 24 20:04:09 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 20:14:17 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 20:15:13 2026] He thong tat. Da luu du lieu.
+[Tue Feb 24 20:16:47 2026] He thong khoi dong. Da nap du lieu.
+[Tue Feb 24 20:17:37 2026] He thong tat. Da luu du lieu.
+[Sun Mar  1 20:40:54 2026] He thong khoi dong. Da nap du lieu.
+[Sun Mar  1 20:48:50 2026] He thong khoi dong. Da nap du lieu.
+[Sun Mar  1 20:48:55 2026] He thong khoi dong. Da nap du lieu.
+[Sun Mar  1 20:49:27 2026] He thong khoi dong. Da nap du lieu.
+[Sun Mar  1 20:49:32 2026] He thong khoi dong. Da nap du lieu.
